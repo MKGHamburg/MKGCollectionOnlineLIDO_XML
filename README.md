@@ -1,3 +1,16 @@
-# SammlungOnlineCodingdaVinci2016
-Vor fast einem Jahr hat sich das Museum für Kunst und Gewerbe als erstes Museum für angewandte Kunst in Deutschland dazu entschlossen, die Digitalisate von gemeinfreien Objekten, sofern rechtlich möglich, frei bereitzustellen und ebenfalls die Metadaten zu den Sammlungsobjekten unter der CC0-Lizenz freizugeben. Daher werden für Coding da Vinci die vollständigen Metadaten zu den bisher in der MKG Sammlung Online publizierten Sammlungsobjekten (mehr als 8400) als LIDO-XML veröffentlicht. Darin enthalten sind Links zu den frei nutzbaren Digitalisaten der Objektabbildungen (JPEGs). Zusätzlich können die Bilddaten über die MKG Sammlung Online heruntergeladen werden. Die Metadaten enthalten neben den technischen Informationen zu den Werken (Material, Technik, Maße, Signatur) und deren Herstellung (Künstler/Hersteller, Datierung, Herstellungsort) auch Informationen zur Sachgruppe oder zum Bildinhalt und den dargestellten Personen. Alle Personen und Körperschaften sind, sofern ein Eintrag in der Gemeinsamen Normdatei (GND) existiert, auch mit diesem verknüpft. Die Vokabulare, die genutzt wurden, um die Objekte zu verschlagworten sind zudem zu großen Teilen gemappt auf die GND, Wikipedia und Geonames, zu anderen Vokabularen wie dem Art and Architecture Thesaurus (AAT) oder Iconclass.
-Der Schwerpunkt der bisher veröffentlichten Objekte liegt dabei auf der Sammlung Fotografie. Sie dokumentieren nicht nur die stilistische, sondern auch die technische Entwicklung des Mediums. Angefangen bei der Daguerreotypie des 19. Jahrhunderts über die Edeldruckverfahren des 20. Jahrhunderts und die frühe Farbfotografie der 1930er Jahre erzählt die Sammlung Fotogeschichte bis zur Digitalfotografie der Gegenwart. 
+# MKG Collection Online
+
+With approximately 500,000 objects from 4,000 years of human history, the Museum für Kunst und Gewerbe Hamburg (MKG) is one of Europe’s most important museums of art and design. 
+The digitised and published parts of the collection are accessible online via MKG Collection Online since 2015: http://sammlungonline.mkg-hamburg.de/en The website features more than 10,000 artworks and artifacts. The focus of the published records to date lies on works of photography. The LIDO-XML dataset that is provided and updated here contains metadata of all the published records including links to the connected images, if available. More than 7800 images are reusable without any restrictions. Please note our usage guidelines, if reusing images: http://sammlungonline.mkg-hamburg.de/en/termsandconditions
+
+The metadata includes information about artist/actor, actor role, object type, title, eventtype, date and place, material, technique, dimensions, marks and inscription, classification, iconography/subject, depicted persons, depicted place, description and rights metadata.
+The vocabulary used for cataloguing is in large parts linked to the Integrated Authority File (GND), to Wikipedia and Geonames, as well as to thesauri like Iconclass and the Art and Architecture Thesaurus (AAT). 
+
+The datasets are placed in the public domain using a CC0 License.
+
+
+The data can also be accessed via the APIs of Europeana or Deutsche Digitale Bibliothek.
+
+If you find any errors or want to provide additional information, please email us at inventarisierung@mkg-hamburg.de 
+
+
